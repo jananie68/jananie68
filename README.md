@@ -1,10 +1,8 @@
 <h1 align="center">Hi 👋, I'm Janani</h1>
 
-<h3 align="center">Final Year B.Tech AI & DS Student</h3>
-
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+%26+Machine+Learning+Enthusiast;MERN+Stack+Developer;Problem+Solver" />
-</p>
+<h3 align="center">
+Full Stack Developer | AI & DS Student
+</h3>
 
 ---
 
