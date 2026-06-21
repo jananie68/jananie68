@@ -29,11 +29,18 @@ Full Stack Developer | AI & DS Student
 ---
 
 ## 🚀 Projects
+### ⚡ Smart Energy Demand Forecasting
+- Machine Learning-based Energy Prediction
+- LightGBM, XGBoost & Random Forest Models
+- Feature Engineering & Time-Series Analysis
+- Optimized Energy Consumption Insights
 
-### AI Career Guidance System
-- Resume Analysis
-- RAG-based Job Matching
-- LLM Recommendations
+### 🌐 MERN Stack E-Commerce Platform
+- Full Stack Web Application
+- Product Management & Search
+- User Authentication & Authorization
+- MongoDB Database Integration
+- Responsive React UI
 
 ### QuickShift
 - React + Node.js + MongoDB
@@ -44,6 +51,11 @@ Full Stack Developer | AI & DS Student
 - XGBoost
 - Time Series Analysis
 
+### 📊 Data Analytics Dashboard
+- Power BI Interactive Reports
+- KPI Monitoring & Visualization
+- DAX Measures and Calculated Columns
+- Business Insights Generation
 ---
 
 ## 📊 GitHub Stats
